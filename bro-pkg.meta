@@ -1,0 +1,6 @@
+[package]
+description = Find and notice DNS zone transfer attempts.
+tags = dns recon
+version = 1.0.0
+script_dir = scripts
+
