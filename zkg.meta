@@ -1,6 +1,6 @@
 [package]
 description = Find and notice DNS zone transfer attempts.
+aliases = zeek-dns_axfr dns_axfr
 tags = dns recon
-version = 1.0.0
+version = 1.1.1
 script_dir = scripts
-
